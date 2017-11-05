@@ -1,0 +1,29 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "Hangman CLI Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boslott/hangmanCLI.git"
+  },
+  "keywords": [
+    "hangman",
+    "cli",
+    "node"
+  ],
+  "author": "Bo Slott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boslott/hangmanCLI/issues"
+  },
+  "homepage": "https://github.com/boslott/hangmanCLI#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0",
+    "node-run-cmd": "^1.0.1"
+  }
+}
