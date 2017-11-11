@@ -24,6 +24,8 @@
   "dependencies": {
     "colors": "^1.1.2",
     "inquirer": "^3.3.0",
-    "node-run-cmd": "^1.0.1"
+    "keypress": "^0.2.1",
+    "node-run-cmd": "^1.0.1",
+    "request": "^2.83.0"
   }
 }
